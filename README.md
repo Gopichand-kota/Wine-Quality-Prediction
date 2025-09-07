@@ -25,19 +25,18 @@ IDE: VS Code / PyCharm
 
 PROJECT STRUCTURE
 wine-quality-prediction/
-│
-├── data/
-│   └── winequality-red.csv         # Raw dataset
-│
-├── notebooks/
-│   └── wine_quality_analysis.ipynb # Exploratory Data Analysis
-│
-├── models/
-│   ├── train_models.py             # Model training and evaluation
-│   └── wine_quality_model.pkl      # Serialized model
-│
-├── requirements.txt               # Project dependencies
-└── README.md                      # Project documentation
+1:-winequality-red.csv         # Raw dataset
+
+2:-notebooks/
+ wine_quality_analysis.ipynb # Exploratory Data Analysis
+ 
+3:-models/
+ train_models.py             # Model training and evaluation
+  wine_quality_model.pkl      # Serialized model
+  
+4:- requirements.txt               # Project dependencies
+
+5:-README.md                      # Project documentation
 
  DATASET
 
