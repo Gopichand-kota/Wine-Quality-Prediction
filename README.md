@@ -24,7 +24,9 @@ Jupyter Notebook / Python Scripts
 IDE: VS Code / PyCharm
 
 PROJECT STRUCTURE
+
 wine-quality-prediction/
+
 1:-winequality-red.csv         # Raw dataset
 
 2:-notebooks/
